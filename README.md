@@ -3,6 +3,7 @@
 This repository contains a Python script for extracting, processing, and labeling survey data from KoboToolbox using the `KoboExtractor` library. The script retrieves survey data, normalizes nested JSON structures, and formats the results into a clean pandas DataFrame for further analysis.
 
 ---
+![kobo_extraction_image](https://github.com/user-attachments/assets/fa6a7487-2e8a-4680-aad2-fefa390a998d)
 
 ## 📚 Table of Contents
 
