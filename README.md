@@ -44,3 +44,8 @@ Install the required packages using pip:
 
 ```bash
 pip install pandas koboextractor python-dotenv
+
+--
+## 🔐 Environment Variables
+The script uses environment variables to securely store sensitive information.
+Create a .env file in the root directory with the following variables:
